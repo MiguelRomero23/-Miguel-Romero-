@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-expo",
+  "version": "1.0.0",
+  "description": "proyecto expo superate poma antiaglomeraciones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Romero",
+  "license": "ISC"
+}
